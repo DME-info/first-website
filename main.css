@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: rgb(4,52,100);
+}
+.navbar-brand{
+    color: #ffffff;
+}
+.sr-only{
+    color: white;
+}
