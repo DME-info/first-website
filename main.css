@@ -1,9 +1,34 @@
 .container-fluid{
+    height: 50px;
     background-color: rgb(4,52,100);
+}
+.header{
+    color: white;
+    font-size: 18px;
+}
+.header:hover{
+    color: aquamarine;
 }
 .navbar-brand{
     color: #ffffff;
 }
 .sr-only{
     color: white;
+}
+
+.container{
+    width: 1000px;
+}
+
+.bio{
+    width:1000px;
+    font-size: 18px;
+}
+
+.honor-content{
+    font-size: 18px;
+}
+
+.project-title{
+    font-size: 15px;
 }
